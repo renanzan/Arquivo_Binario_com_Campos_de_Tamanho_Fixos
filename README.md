@@ -7,7 +7,8 @@ Um software simples que faz o CRUD de um TAD (unsigned int numeroConta, char nom
 
 ## Pré-requisitos
 ```
-O código da Interface Gráfica basea-se na biblioteca windows.h, por isso só será executado corretamente em dispositivos com Sistema Operacional do Windows.
+O código da Interface Gráfica baseia-se na biblioteca windows.h
+Por isso só será executado corretamente em dispositivos com Sistema Operacional do Windows.
 ```
 
 ## Construído com

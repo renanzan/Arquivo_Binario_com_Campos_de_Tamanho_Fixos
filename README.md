@@ -22,4 +22,4 @@ VERSÃO 1.0.0 [22/05/2019]
 * Falta implementar interface com campos para a adição e remoção de dados
 
 ## Autores
-* **Renan Zanoti** - *Primeiro projeto em C concluido envolvendo interface gráfica* - [renanzan](https://github.com/renanzan)
+* **Renan Zanoti** - *Trabalho de Algoritmo e Estrutura de Dados 2 (Sistemas de Informação, UFOP - ICEA)* - [renanzan](https://github.com/renanzan)

@@ -12,14 +12,14 @@ Por isso só será executado corretamente em dispositivos com Sistema Operaciona
 ```
 
 ## Construído com
-* [Code::Blocks](http://www.codeblocks.org/) - A IDE utilizada
+* [Code::Blocks](http://www.codeblocks.org/) - A IDE utilizada.
 
 ## Versões
 VERSÃO 1.0.0 [22/05/2019]
-* Manipulação de arquivo binário com capacidade de 100 registros de tamanho fixo
-* CRUD do TAD cliente
-* Interface Gráfica Simples
-* Falta implementar interface com campos para a adição e remoção de dados
+* Manipulação de arquivo binário com capacidade de 100 registros de tamanho fixo.
+* CRUD do TAD cliente.
+* Interface Gráfica Simples.
+* Falta implementar interface com campos para a adição e remoção de dados.
 
 ## Autores
 * **Renan Zanoti** - *Trabalho de Algoritmo e Estrutura de Dados 2 (Sistemas de Informação, UFOP - ICEA)* - [renanzan](https://github.com/renanzan)

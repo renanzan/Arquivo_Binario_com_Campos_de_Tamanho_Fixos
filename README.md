@@ -1,5 +1,7 @@
-# C (Interface Gráfica) Manipulação de Arquivo Binário com Campos de Tamanho Fixo
+# Manipulação de Arquivo Binário com Campos de Tamanho Fixo
 Um software simples que faz o CRUD de um TAD (unsigned int numeroConta, char nome[30], double saldo), referente a uma conta bancária, num arquivo binário (credito.dat) com capacidade de 100 registros de tamanho fixo.
+
+**Palavras chave:** C, "windows.h", Interface Gráfica, Manipulação de arquivos, Arquivo Binário, Campos de tamanho Fixo
 
 ![](preview/image1.png)
 
